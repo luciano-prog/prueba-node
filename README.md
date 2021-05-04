@@ -1,4 +1,5 @@
 # Finterest
-a simple example nodejs and mongodb app based on Pinterest.
+
+El test de node de punch it.
 
 ![](docs/screenshot.png)
